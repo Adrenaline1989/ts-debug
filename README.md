@@ -12,3 +12,9 @@ export default defineConfig({
   // ...
   integrations: [react()],
 });
+
+## How to
+Click "Run Debug" button
+play Development Server
+then
+play "Chrome against localhost"
